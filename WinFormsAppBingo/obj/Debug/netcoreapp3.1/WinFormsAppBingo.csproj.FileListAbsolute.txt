@@ -1,0 +1,17 @@
+C:\Users\dalvares\source\repos\Bingo\WinFormsAppBingo\bin\Debug\netcoreapp3.1\WinFormsAppBingo.exe
+C:\Users\dalvares\source\repos\Bingo\WinFormsAppBingo\bin\Debug\netcoreapp3.1\WinFormsAppBingo.deps.json
+C:\Users\dalvares\source\repos\Bingo\WinFormsAppBingo\bin\Debug\netcoreapp3.1\WinFormsAppBingo.runtimeconfig.json
+C:\Users\dalvares\source\repos\Bingo\WinFormsAppBingo\bin\Debug\netcoreapp3.1\WinFormsAppBingo.runtimeconfig.dev.json
+C:\Users\dalvares\source\repos\Bingo\WinFormsAppBingo\bin\Debug\netcoreapp3.1\WinFormsAppBingo.dll
+C:\Users\dalvares\source\repos\Bingo\WinFormsAppBingo\bin\Debug\netcoreapp3.1\WinFormsAppBingo.pdb
+C:\Users\dalvares\source\repos\Bingo\WinFormsAppBingo\obj\Debug\netcoreapp3.1\WinFormsAppBingo.csproj.AssemblyReference.cache
+C:\Users\dalvares\source\repos\Bingo\WinFormsAppBingo\obj\Debug\netcoreapp3.1\WinFormsAppBingo.Form1.resources
+C:\Users\dalvares\source\repos\Bingo\WinFormsAppBingo\obj\Debug\netcoreapp3.1\WinFormsAppBingo.FormBingo.resources
+C:\Users\dalvares\source\repos\Bingo\WinFormsAppBingo\obj\Debug\netcoreapp3.1\WinFormsAppBingo.csproj.GenerateResource.cache
+C:\Users\dalvares\source\repos\Bingo\WinFormsAppBingo\obj\Debug\netcoreapp3.1\WinFormsAppBingo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalvares\source\repos\Bingo\WinFormsAppBingo\obj\Debug\netcoreapp3.1\WinFormsAppBingo.AssemblyInfoInputs.cache
+C:\Users\dalvares\source\repos\Bingo\WinFormsAppBingo\obj\Debug\netcoreapp3.1\WinFormsAppBingo.AssemblyInfo.cs
+C:\Users\dalvares\source\repos\Bingo\WinFormsAppBingo\obj\Debug\netcoreapp3.1\WinFormsAppBingo.csproj.CoreCompileInputs.cache
+C:\Users\dalvares\source\repos\Bingo\WinFormsAppBingo\obj\Debug\netcoreapp3.1\WinFormsAppBingo.dll
+C:\Users\dalvares\source\repos\Bingo\WinFormsAppBingo\obj\Debug\netcoreapp3.1\WinFormsAppBingo.pdb
+C:\Users\dalvares\source\repos\Bingo\WinFormsAppBingo\obj\Debug\netcoreapp3.1\WinFormsAppBingo.genruntimeconfig.cache
